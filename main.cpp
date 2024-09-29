@@ -1,4 +1,4 @@
-// Creator: Ricardo Mosqueda-Torres
+// Creator: RickyRMT
 //----------------------------------
 // Project: Rock, Paper, Scissors Game
 #include <iostream>
